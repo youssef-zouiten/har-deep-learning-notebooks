@@ -5,7 +5,7 @@ Human Activity Recognition on the **UCI HAR** dataset: exploratory data analysis
 
 ## Authors and supervision
 
-- Youssef and Hassan Jaha
+- Youssef Zouiten (@Youssef7creat) and Hassan Jaha (@Hassan-jaha)
 - Supervisors: Prof. Abdellaoui and Prof. Ou-ssekou
 
 ## Repository contents
